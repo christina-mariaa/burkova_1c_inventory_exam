@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.19">
+	<ConfigVersions>
+		<Metadata name="Catalog.Оборудование" id="198c62a3-20c4-41a3-8f4f-c3ccd46182f8" configVersion="6ddae302566a8d4db55e6067a2a0117300000000">
+			<Metadata name="Catalog.Оборудование.Attribute.Местоположение" id="23248e07-c1e8-4c3e-9c48-fe69d777f5cb"/>
+			<Metadata name="Catalog.Оборудование.Attribute.Ответственный" id="2c7109f0-3144-415e-a49f-d174c04c4505"/>
+			<Metadata name="Catalog.Оборудование.Attribute.ИнвентарныйНомер" id="98c00450-760a-4411-8c6b-801d797372ff"/>
+		</Metadata>
+		<Metadata name="Configuration.Конфигурация" id="33d51c1a-69da-4f2a-8613-15308c3a7b77" configVersion="f8a61fdcda4aa14cbe708c4b14c5c2f300000000"/>
+		<Metadata name="Document.Инвентаризация" id="4d0c342a-35e0-4513-b3c8-5d19a85b03f5" configVersion="e3c8c0b15c2f0642bd7c321ec564e80c00000000">
+			<Metadata name="Document.Инвентаризация.Attribute.Состояние" id="7d4f3ea8-fabb-44e0-8d7f-32ef37609492"/>
+			<Metadata name="Document.Инвентаризация.TabularSection.ТабличнаяЧасть1.Attribute.Состояние" id="8bf8a8a9-b6f3-4862-aaa2-c9856123f992"/>
+			<Metadata name="Document.Инвентаризация.TabularSection.ТабличнаяЧасть1.Attribute.Оборудование" id="b9e0b748-476d-4c56-9a09-814895e1b406"/>
+			<Metadata name="Document.Инвентаризация.TabularSection.ТабличнаяЧасть1" id="d791d9a6-aba1-4dc9-b405-01973264733f"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="c14a9b84-fb51-42e8-ac66-1630978d5cfc" configVersion="7701321038aea94f8cd2d0b174a187ff00000000"/>
+		<Metadata name="Report.ОборудованиеПоМестоположению" id="605b713b-aa55-4e2e-90df-91f347fb1e4b" configVersion="2380e6ff60ad214b9134534143a2794300000000"/>
+		<Metadata name="Report.ОборудованиеПоМестоположению.Template.ОсновнаяСхемаКомпоновкиДанных" id="768af971-c40d-42c3-b2df-b5a744a9f4aa" configVersion="7d3e354581ea9442b047995574b7822c00000000"/>
+		<Metadata name="Report.ОборудованиеПоМестоположению.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="768af971-c40d-42c3-b2df-b5a744a9f4aa.0" configVersion="479b7b2e0b97a3478c11b67cd55a2a4400000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
